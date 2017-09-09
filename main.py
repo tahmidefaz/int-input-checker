@@ -8,4 +8,4 @@ def check(a):
 userinput = ""
 
 while check(userinput) == False:
-  userinput = input("Enter a number")
+  userinput = input("Enter a number: ")
